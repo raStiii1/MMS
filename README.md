@@ -5,10 +5,10 @@ rotation-speeds and accelerations are the main target for MMS.
 
 ## Link to PDF-Documentation
 ### German Documentation
-[German](/documentation/IRP_Documentation_Steffen-Raab_DE)
+[German](/documentation/IRP_Documentation_Steffen-Raab_DE.pdf)
 
 ### English Documentation (translated with DeepL)
-[English](/documentation/IRP_Documentation_Steffen-Raab_EN)
+[English](/documentation/IRP_Documentation_Steffen-Raab_EN.pdf)
 
 ## Link to Video-Playlist:
 ![Verlinkung zur YT Playlist](/images/YouTube_Playlist.png)
