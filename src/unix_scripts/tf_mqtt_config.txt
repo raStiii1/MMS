@@ -1,0 +1,93 @@
+{
+
+        "tinkerforge/request/industrial_ptc_bricklet/ZC7/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/ZC7/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/213P/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/213P/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/ZCb/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/ZCb/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/213q/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/213q/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/213h/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/213h/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/ZC6/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/ZC6/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/ZC8/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/ZC8/temperature":{"register": true},
+		
+		"tinkerforge/request/industrial_ptc_bricklet/213s/set_temperature_callback_configuration":{"period": 2000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/industrial_ptc_bricklet/213s/temperature":{"register": true},
+		
+		
+        
+		"tinkerforge/request/thermocouple_v2_bricklet/WS9/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WS9/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WpR/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WpR/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/Wso/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/Wso/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WQg/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WQg/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WSc/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WSc/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WPY/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WPY/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WRf/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WRf/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WQq/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WQq/temperature":{"register": true},
+		
+		"tinkerforge/request/thermocouple_v2_bricklet/WPJ/set_temperature_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+        "tinkerforge/register/thermocouple_v2_bricklet/WPJ/temperature":{"register": true},
+        
+		
+		
+		"tinkerforge/request/industrial_dual_0_20ma_v2_bricklet/ZLW/set_current_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 3000, "max": 0},
+		"tinkerforge/register/industrial_dual_0_20ma_v2_bricklet/ZLW/current":{"register": true},
+		
+		
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/Ye9/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/Ye9/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/Ybj/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/Ybj/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/23RH/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/23RH/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/YaM/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/YaM/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/Ybs/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/Ybs/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/Ycy/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/Ycy/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/23RK/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/23RK/voltage":{"register": true},
+		
+		"tinkerforge/request/industrial_dual_analog_in_v2_bricklet/YbX/get_all_voltages_callback_configuration":{"period": 1000, "value_has_to_change": false},
+		"tinkerforge/register/industrial_dual_analog_in_v2_bricklet/YbX/voltage":{"register": true},
+		
+		
+		
+		"tinkerforge/request/air_quality_bricklet/X9A/set_all_values_callback_configuration":{"period": 1000, "value_has_to_change": false, "option": "x", "min": 0, "max": 0},
+        "tinkerforge/register/air_quality_bricklet/X9A/all_values":{"register": true}
+		
+        
+}
