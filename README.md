@@ -14,3 +14,6 @@ rotation-speeds and accelerations are the main target for MMS.
 [Video documentation - only German](https://youtube.com/playlist?list=PLtG14c84NRPkzPjo4YDjPBqea8d7GSE9G)
 
 ![Verlinkung zur YT Playlist](/images/YouTube_Playlist.png)
+
+### Notes:
+Some Links in the uploaded PDF-Documentation are not working anymore (mostly "hrbx..."-Links). The important files which are linked can be found in the src-Folder.
